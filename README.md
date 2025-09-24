@@ -1,4 +1,15 @@
-# Qualificacao-Doutorado
+<!-- HERO -->
+## IME - USP  💎 ✨
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
+## Qualificacao-Doutorado
 Qualification-exam-2019
 # Qualificação de Doutorado — Ana Isabel Castillo Pereda
 
